@@ -1,0 +1,36 @@
+.home {
+    display: flex;
+    align-items: center;
+    margin-top: 165px;
+}
+
+.home .content{
+    max-width: 40rem;
+}
+
+.home .content h3{
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.home .content p{
+    font-size: 1rem;
+    font-weight: lighter;
+    line-height: 1.8;
+    padding: 1rem 0;
+    color: #fff;
+}
+
+.btn {
+    display: inline-block;
+
+    font-size: 1.7rem;
+    color: #fff;
+    cursor: pointer;
+    color:white;
+    background-color: rgb(244, 176, 117);
+    
+    
+}
+

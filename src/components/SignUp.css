@@ -1,0 +1,37 @@
+#form {
+    max-width: 50%;
+    margin-left: 25%;
+    padding: 70px;
+    
+}
+
+body {
+    background-image: url(pictures/background.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    max-height: 100%;
+    
+    
+}
+
+.form-control {
+    border-radius: 9px;
+}
+
+#button {
+    border-radius: 9px;
+    color: white;
+    background-color: rgb(137, 62, 33);
+    
+}
+
+#signup {
+    font-weight: 700;
+    color: rgb(182, 91, 55);
+}
+
+#label {
+    color: rgba(213, 213, 213, 0.848);
+}
+
